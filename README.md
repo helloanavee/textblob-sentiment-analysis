@@ -1,3 +1,5 @@
+![title_cover](https://github.com/helloanavee/textblob-sentiment-analysis/assets/15902153/5e6a537d-5186-42da-8c85-c173436e5638)
+
 [Read the full report here](https://helloanavee.github.io/data-skills-analysis/data-skills.html)
 
 ## A Quick Overview
