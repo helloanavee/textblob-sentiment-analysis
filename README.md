@@ -1,20 +1,18 @@
 [Read the full report here](https://helloanavee.github.io/data-skills-analysis/data-skills.html)
 
 ## A Quick Overview
-The Data industry has experienced substantial growth, creating opportunities for both companies and specialists. Navigating this dynamic field is a continual challenge as professionals adapt their skills to evolving industry demands.
+Sentiment Analysis, or Opinion Mining, stands as a pertinent and impactful application of Machine Learning and Natural Language Processing. It is useful in many applications, including employee feedback assessments, e-commerce customer review analysis, and market research endeavors.
 
-**This study focuses on identifying pivotal skills for roles in the Philippine data industry**, providing aspiring professionals with insights for strategic skill development and targeted career growth. 
-
-Ultimately, this study aims to address the question: **What are the current, in-demand job segments of the Philippine Data Industry, and what corresponding skills are most needed in each job segment?**
+In this study, I created a **sentiment classification system for an e-commerce review dataset**. This was done with 2 methodologies: **with the library TextBlob, and without the library**. TextBlob is a dedicated Python library for Natural Language Processing (NLP) tasks. Throughout this exploration, I evaluate the merits and drawbacks of each technique, providing a comprehensive understanding of their respective strengths and limitations.
 
 ### About the Project
-This project was done as part of our Data Mining and Wrangling class in our MS Data Science program at the Asian Institute of Management.
+This project was done as part of our Machine Learning 1 class in our MS Data Science program at the Asian Institute of Management.
 
 ### Tools used
-Web scraping, dimensionality reduction
+Grid search, TextBlob, Naive Bayes, Natural Language Processing (NLP)
 
 ### Authors
-Paulo Medina, Gregory Uy, Ana Vasquez, Gian Servanez
+Ana Vasquez
 <br> MSDS 2024
 
 [Read the full report here](https://helloanavee.github.io/data-skills-analysis/data-skills.html)
